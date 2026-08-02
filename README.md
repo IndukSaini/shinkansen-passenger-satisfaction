@@ -22,8 +22,7 @@ Predicting passenger satisfaction for the Shinkansen Bullet Train using Machine 
 
 The confusion matrix summarizes the model's classification performance on the validation dataset.
 
-"C:\Users\kamle\OneDrive\Documents\Indu-Saini\Data_Science_2026\Project\Capstone\Face Emotion Recognition\Facial_emotion_images\Confusion_matrix.png"
-
+<img width="355" height="370" alt="image" src="https://github.com/user-attachments/assets/d3a5d989-b824-43f6-9b0d-cc32c32bd13d" />
 
 ---
 
