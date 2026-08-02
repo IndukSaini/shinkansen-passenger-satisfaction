@@ -1,15 +1,18 @@
 # Dataset
 
-The dataset is not included in this repository because it was provided through the competition.
+The original dataset was provided as part of the Shinkansen Travel Experience hackathon.
 
-Datasets used:
+The project uses two sources:
 
-- Travel Data
-- Survey Data
+- Travel data containing passenger and journey-related information
+- Survey data containing post-service experience ratings
 
-Target Variable:
+The train and test datasets were supplied separately.
 
-Overall_Experience
+The target variable is:
 
-- 1 = Satisfied
-- 0 = Not Satisfied
+- `Overall_Experience`
+  - `1`: Satisfied
+  - `0`: Not satisfied
+
+The raw competition data is not included in this repository. Users should obtain the dataset from the original competition platform and place it in the appropriate local data directory.
