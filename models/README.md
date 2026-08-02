@@ -1,19 +1,14 @@
-# Models
+# Saved Models
 
-The final solution uses an ensemble of five CatBoost models trained using Stratified 5-Fold Cross Validation.
+The final solution used an ensemble of five CatBoost models trained through stratified five-fold cross-validation.
 
-Model:
+The binary model files are not included in this repository because trained artifacts can be large and can be regenerated from the notebook.
 
-CatBoostClassifier
+Final configuration:
 
-Evaluation Metric:
-
-Accuracy
-
-Cross Validation Accuracy:
-
-95.825%
-
-Leaderboard Accuracy:
-
-95.82327%
+- Algorithm: CatBoostClassifier
+- Objective: Logloss
+- Evaluation metric: Accuracy
+- Number of folds: 5
+- Classification threshold: 0.50
+- Mean cross-validation accuracy: 0.95825
