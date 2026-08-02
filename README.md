@@ -18,11 +18,6 @@ Predicting passenger satisfaction for the Shinkansen Bullet Train using Machine 
 
 # 📊 Model Evaluation
 
-### Confusion Matrix
-
-The confusion matrix summarizes the model's classification performance on the validation dataset.
-
-<img width="355" height="370" alt="image" src="https://github.com/user-attachments/assets/d3a5d989-b824-43f6-9b0d-cc32c32bd13d" />
 
 ---
 
