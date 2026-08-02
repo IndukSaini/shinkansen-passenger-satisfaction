@@ -12,6 +12,16 @@ Predicting passenger satisfaction for the Shinkansen Bullet Train using Machine 
 
 ---
 
+## 📊 Feature Importance
+
+![Feature Importance](images/feature_importance.png)
+
+---
+
+## 🏆 Competition Result
+
+![Leaderboard](images/leaderboard_result.png)
+
 # 🏆 Project Results
 
 | Metric | Score |
