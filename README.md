@@ -12,6 +12,16 @@ Predicting passenger satisfaction for the Shinkansen Bullet Train using Machine 
 
 ---
 
+# 🏆 Project Results
+
+| Metric | Score |
+|---------|-------:|
+| 5-Fold Cross Validation Accuracy | **95.825%** |
+| Competition Leaderboard Accuracy | **95.82327%** |
+| Leaderboard Rank | **15** |
+
+The close agreement between cross-validation and leaderboard accuracy demonstrates that the model generalizes well to unseen data.
+
 # 📌 Project Overview
 
 This project develops a machine learning model to predict whether a passenger is satisfied with their overall travel experience on the Shinkansen Bullet Train.
@@ -21,7 +31,7 @@ The objective is to classify passengers into:
 - **1** → Satisfied
 - **0** → Not Satisfied
 
-The project follows an end-to-end machine learning workflow, including data preprocessing, exploratory data analysis, feature engineering, model development, cross-validation, model interpretation, and business recommendations. :contentReference[oaicite:1]{index=1}
+The project follows an end-to-end machine learning workflow, including data preprocessing, exploratory data analysis, feature engineering, model development, cross-validation, model interpretation, and business recommendations.
 
 ---
 
@@ -79,8 +89,7 @@ The final model uses:
 - Probability Averaging Ensemble
 - Classification Threshold = 0.50
 
-Several feature engineering experiments were evaluated. Although some improved a single validation split, the original baseline feature set achieved the strongest cross-validation performance and was selected as the final solution. :contentReference[oaicite:2]{index=2}
-
+Several feature engineering experiments were evaluated. Although some improved a single validation split, the original baseline feature set achieved the strongest cross-validation performance and was selected as the final solution.
 ---
 
 # 📈 Model Performance
@@ -91,9 +100,7 @@ Several feature engineering experiments were evaluated. Although some improved a
 | Competition Leaderboard Accuracy | **95.82327%** |
 | Leaderboard Rank | **15** |
 
-The close agreement between cross-validation and leaderboard accuracy indicates that the validation strategy provided a reliable estimate of model performance on unseen data. :contentReference[oaicite:3]{index=3}
-
----
+The close agreement between cross-validation and leaderboard accuracy indicates that the validation strategy provided a reliable estimate of model performance on unseen data.
 
 # 📊 Most Important Features
 
@@ -135,7 +142,7 @@ Based on the model results:
 - Improve the online booking and boarding experience.
 - Maintain high standards for onboard services and cleanliness.
 - Monitor service quality separately across travel classes.
-- Improve station and platform accessibility and convenience. :contentReference[oaicite:6]{index=6}
+- Improve station and platform accessibility and convenience. 
 
 ---
 
