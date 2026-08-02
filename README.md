@@ -14,13 +14,13 @@ Predicting passenger satisfaction for the Shinkansen Bullet Train using Machine 
 
 ## 📊 Feature Importance
 
-![Feature Importance](images/feature_importance.png)
+![Feature Importance]("C:\Users\kamle\OneDrive\Documents\Indu-Saini\Data_Science_2026\Project\Capstone\Face Emotion Recognition\Facial_emotion_images\feature_importance.png")
 
 ---
 
 ## 🏆 Competition Result
 
-![Leaderboard](images/leaderboard_result.png)
+![Leaderboard]("C:\Users\kamle\OneDrive\Documents\Indu-Saini\Data_Science_2026\Project\Capstone\Face Emotion Recognition\Facial_emotion_images\leaderboard_result.png")
 
 # 🏆 Project Results
 
