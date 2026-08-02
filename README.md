@@ -162,18 +162,23 @@ Based on the model results:
 
 ```text
 shinkansen-passenger-satisfaction/
-│
-├── notebooks/
-├── reports/
-├── data/
-├── models/
-├── images/
-├── submissions/
-│
 ├── README.md
-├── requirements.txt
 ├── LICENSE
-└── .gitignore
+├── requirements.txt
+├── notebooks/
+│   └── shinkansen_travel_experience.ipynb
+├── reports/
+│   ├── shinkansen_travel_experience.html
+│   └── feature_importance_final.csv
+├── submissions/
+│   └── final_catboost_5fold_baseline.csv
+├── images/
+│   ├── feature_importance.png
+│   └── leaderboard_result.png
+├── models/
+│   └── README.md
+└── data/
+    └── README.md
 ```
 
 ---
